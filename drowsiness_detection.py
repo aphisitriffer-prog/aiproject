@@ -8,7 +8,7 @@ PERCLOS = Percentage of Eye Closure
 ระดับการแจ้งเตือน:
   NORMAL   : PERCLOS < 20%  → ปกติ (เขียว)
   DROWSY   : PERCLOS 20-40% → เริ่มง่วง (เหลือง) ⚠
-  CRITICAL : PERCLOS > 40%  → ง่วงมาก (แดง) 🚨
+  CRITICAL : PERCLOS > 40%  → ง่วงมาก (แดงจายวาย) 🚨
 
 Tech Stack:
   - Python 3.11
